@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=40&pause=1000&color=F70000&vCenter=true&width=435&height=30&lines=Ol%C3%A1%2C++me+chamo+Ryan+Teodoro!)](https://git.io/typing-svg)
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Técnico em Informática | Design UX/UI**
+
 ---
 
 ## Sobre mim
