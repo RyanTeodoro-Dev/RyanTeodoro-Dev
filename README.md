@@ -3,12 +3,6 @@
 </h1>
 
 <style>
-  @keyframes pulse {
-    0% { opacity: 1; }
-    50% { opacity: 0.7; }
-    100% { opacity: 1; }
-  }
-</style>
 
 <h2 align="left">Desenvolvedor Full Stack</h2>
 
