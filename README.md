@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=40&pause=1000&color=F70000&width=435&lines=Ol%C3%A1%2C++me+chamo+Ryan+Teodoro!)](https://git.io/typing-svg)
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Técnico em Informática | Design UX/UI**
-
 ---
 
 ## Sobre mim
@@ -60,14 +58,12 @@ Busco participar de projetos que me desafiem tecnicamente, ampliem minha visão 
 
 ## Contato
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ryan-teodoro-f-b-tinoco-856463356" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rteodoro742@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/RyanTeodoro-Dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/ryan-teodoro-f-b-tinoco-856463356" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:rteodoro742@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/RyanTeodoro-Dev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
