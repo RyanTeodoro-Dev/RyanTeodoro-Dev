@@ -4,7 +4,7 @@
 
 ---
 
-## Sobre mim
+## 🧑🏼‍💻Sobre mim
 
 Prazer, me chamo Ryan Teodoro e sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Senac, além de ter concluído o curso técnico em Informática. Tenho grande interesse pela área de tecnologia e estou constantemente aprimorando meus conhecimentos para acompanhar a evolução do mercado.
 
@@ -12,7 +12,7 @@ Atualmente, estou profundamente envolvido no universo da programação, buscando
 
 ---
 
-## Stack Principal
+## 🔻Stack Principal
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" title="Java" />
@@ -40,7 +40,7 @@ Atualmente, estou profundamente envolvido no universo da programação, buscando
 
 ---
 
-## Formação
+## 🧑🏼‍🎓Formação
 
 **Análise e Desenvolvimento de Sistemas**  
 *Centro Universitário Senac – Cursando*
@@ -50,7 +50,7 @@ Atualmente, estou profundamente envolvido no universo da programação, buscando
 
 ---
 
-## Objetivos
+## 🎯Objetivos
 
 Meu principal objetivo é conquistar oportunidades onde eu possa aplicar meus conhecimentos em projetos reais, adquirindo experiência prática e contribuindo de forma significativa para o desenvolvimento de soluções tecnológicas eficientes e inovadoras.
 
@@ -58,7 +58,7 @@ Busco participar de projetos que me desafiem tecnicamente, ampliem minha visão 
 
 ---
 
-## Contato
+## ✉️Contato
 
 <a href="https://www.linkedin.com/in/ryan-teodoro-f-b-tinoco-856463356" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
