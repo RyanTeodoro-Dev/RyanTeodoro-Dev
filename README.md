@@ -1,8 +1,4 @@
-<h1 align="left">
-  <span style="color: red; animation: pulse 1.5s infinite;">Olá, me chamo Ryan Teodoro 👋</span>
-</h1>
-
-<style>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+me+chamo+Ryan+Teodoro+👋&color=FF0000&size=30&width=400)](https://git.io/typing-svg)
 
 <h2 align="left">Desenvolvedor Full Stack</h2>
 
