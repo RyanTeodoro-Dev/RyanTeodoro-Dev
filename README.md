@@ -1,6 +1,14 @@
-<h1 align="left">Olá, me chamo Ryan Teodoro 👋</h1>
+<h1 align="left">
+  <span style="color: red; animation: pulse 1.5s infinite;">Olá, me chamo Ryan Teodoro 👋</span>
+</h1>
 
-###
+<style>
+  @keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.7; }
+    100% { opacity: 1; }
+  }
+</style>
 
 <h2 align="left">Desenvolvedor Full Stack</h2>
 
