@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoton&size=35&pause=1000&color=F70000&width=435&lines=Ol%C3%A1%2C++me+chamo+Ryan+Teodoro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=40&pause=1000&color=F70000&width=435&lines=Ol%C3%A1%2C++me+chamo+Ryan+Teodoro!)](https://git.io/typing-svg)
+
 **Estudante de Análise e Desenvolvimento de Sistemas | Técnico em Informática | Design UX/UI**
 
 ---
@@ -59,6 +60,6 @@ Busco participar de projetos que me desafiem tecnicamente, ampliem minha visão 
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-teodoro-f-b-tinoco-856463356)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rteodoro742@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/RyanTeodoro-Dev)
+**LinkedIn:** [ryan-teodoro-f-b-tinoco-856463356](https://www.linkedin.com/in/ryan-teodoro-f-b-tinoco-856463356)  
+**Email:** [rteodoro742@gmail.com](mailto:rteodoro742@gmail.com)  
+**GitHub:** [RyanTeodoro-Dev](https://github.com/RyanTeodoro-Dev)
